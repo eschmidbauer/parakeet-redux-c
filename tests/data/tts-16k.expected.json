@@ -1,0 +1,226 @@
+{
+  "text": "The quick brown fox jumps over the lazy dog. Please call me back at 3.30. The meeting moved to Tuesday. Is this the Parts Department? Yes, I need a door control module for a 2006 S430.",
+  "language": null,
+  "task": "transcribe",
+  "duration_seconds": 12.6089375,
+  "source_duration_seconds": 12.6089375,
+  "clip_start_seconds": 0.0,
+  "clip_end_seconds": 12.6089375,
+  "segments": [
+    {
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "start": 0.0,
+      "end": 2.64,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "quick",
+          "start": 0.16,
+          "end": 0.4
+        },
+        {
+          "word": "brown",
+          "start": 0.48,
+          "end": 0.64
+        },
+        {
+          "word": "fox",
+          "start": 0.8,
+          "end": 1.12
+        },
+        {
+          "word": "jumps",
+          "start": 1.12,
+          "end": 1.44
+        },
+        {
+          "word": "over",
+          "start": 1.44,
+          "end": 1.6
+        },
+        {
+          "word": "the",
+          "start": 1.6,
+          "end": 1.76
+        },
+        {
+          "word": "lazy",
+          "start": 1.76,
+          "end": 2.08
+        },
+        {
+          "word": "dog.",
+          "start": 2.16,
+          "end": 2.64
+        }
+      ]
+    },
+    {
+      "text": "Please call me back at 3.30.",
+      "start": 2.64,
+      "end": 4.64,
+      "words": [
+        {
+          "word": "Please",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "word": "call",
+          "start": 3.04,
+          "end": 3.2
+        },
+        {
+          "word": "me",
+          "start": 3.2,
+          "end": 3.36
+        },
+        {
+          "word": "back",
+          "start": 3.36,
+          "end": 3.6
+        },
+        {
+          "word": "at",
+          "start": 3.6,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "3.30.",
+          "start": 3.7600000000000002,
+          "end": 4.64
+        }
+      ]
+    },
+    {
+      "text": "The meeting moved to Tuesday.",
+      "start": 4.64,
+      "end": 6.16,
+      "words": [
+        {
+          "word": "The",
+          "start": 4.64,
+          "end": 4.72
+        },
+        {
+          "word": "meeting",
+          "start": 4.72,
+          "end": 5.12
+        },
+        {
+          "word": "moved",
+          "start": 5.12,
+          "end": 5.44
+        },
+        {
+          "word": "to",
+          "start": 5.44,
+          "end": 5.5200000000000005
+        },
+        {
+          "word": "Tuesday.",
+          "start": 5.6000000000000005,
+          "end": 6.16
+        }
+      ]
+    },
+    {
+      "text": "Is this the Parts Department?",
+      "start": 6.32,
+      "end": 8.16,
+      "words": [
+        {
+          "word": "Is",
+          "start": 6.32,
+          "end": 6.48
+        },
+        {
+          "word": "this",
+          "start": 6.48,
+          "end": 6.640000000000001
+        },
+        {
+          "word": "the",
+          "start": 6.640000000000001,
+          "end": 6.88
+        },
+        {
+          "word": "Parts",
+          "start": 6.88,
+          "end": 7.28
+        },
+        {
+          "word": "Department?",
+          "start": 7.44,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "text": "Yes, I need a door control module for a 2006 S430.",
+      "start": 8.16,
+      "end": 12.48,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 8.16,
+          "end": 8.56
+        },
+        {
+          "word": "I",
+          "start": 8.72,
+          "end": 8.88
+        },
+        {
+          "word": "need",
+          "start": 8.88,
+          "end": 9.040000000000001
+        },
+        {
+          "word": "a",
+          "start": 9.040000000000001,
+          "end": 9.28
+        },
+        {
+          "word": "door",
+          "start": 9.28,
+          "end": 9.44
+        },
+        {
+          "word": "control",
+          "start": 9.6,
+          "end": 9.84
+        },
+        {
+          "word": "module",
+          "start": 10.0,
+          "end": 10.32
+        },
+        {
+          "word": "for",
+          "start": 10.48,
+          "end": 10.64
+        },
+        {
+          "word": "a",
+          "start": 10.64,
+          "end": 10.8
+        },
+        {
+          "word": "2006",
+          "start": 10.8,
+          "end": 11.52
+        },
+        {
+          "word": "S430.",
+          "start": 11.68,
+          "end": 12.48
+        }
+      ]
+    }
+  ]
+}

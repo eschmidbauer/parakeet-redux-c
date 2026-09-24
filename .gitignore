@@ -53,3 +53,22 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+.claude
+.docs
+
+# build output
+build*/
+
+# model weights live on Hugging Face (eschmidbauer/parakeet-redux-c); clone them into models/
+models/
+*.onnx
+*.pkw
+
+# audio except the bundled test clip
+*.wav
+!tests/data/*.wav
+
+# local tooling
+.venv/
+__pycache__/
